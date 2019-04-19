@@ -8,5 +8,6 @@
   <ItemGroup>
     <PackageReference Include="Igor.Gateway.Api.Sdk" Version="7.3.0" />
     <PackageReference Include="Igor.Gateway.Api.Sdk.Config" Version="5.1.2" />
+    <PackageReference Include="Twilio" Version="5.28.0" />
   </ItemGroup>
 </Project>

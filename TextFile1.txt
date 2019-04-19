@@ -1,0 +1,13 @@
+{
+
+
+  "twilioAccountSid": "AC2480df9d5dbe061d560c2d11c223e286",
+  "authToken": "eba8a696984fa781daaea94e09f22c9a",
+  "ServiceID": "903f1e7c45b646db959749ff3bb66bc1",
+  "ServiceIP": "http://192.168.2.100",
+  "fromPhoneNum: "+17042759233",
+  "toPhoneNum": = "+13127927171"
+
+
+
+}
