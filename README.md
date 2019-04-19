@@ -18,6 +18,6 @@ It can also be installed using .NET core command line tools by running this comm
 $ dotnet add package Twilio
 ```
 
-## Helpful Api Doumentation
+## Helpful Api Documentation
 
 [LightSensorService](https://bitbucket.org/igordev/igor-gateway-api-c-sdk/src/80866661bab47ca0ce63ecca92ca5e2fc483debb/src/Igor.Gateway.Api.Sdk/Apis/LightSensors/LightSensorService.cs?at=master&fileviewer=file-view-default) - Documentation of the light sensor service, used to control the lights.
